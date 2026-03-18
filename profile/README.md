@@ -93,6 +93,7 @@ To ensure the "immortality" of these resources, we utilize static generation too
 
 ## ⚖️ Disclaimer
 These archives are maintained strictly for historical and educational purposes. All rights belong to the GULAG History Museum and respective authors.
+
 Эти архивы поддерживаются исключительно в исторических и образовательных целях. Все права принадлежат Музею истории ГУЛАГа и соответствующим авторам.
 
 ---
