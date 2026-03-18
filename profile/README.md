@@ -18,20 +18,30 @@
 ## 🗂 Digital Collections / Коллекции
 
 ### 🌐 Website Archives / Архивы сайтов
-* **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — Static mirror of the "House on the Embankment" Museum / Статический архив музея «Дом на набережной».
-* **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — Early version of the museum's web presence / Ранняя версия сайта музея.
-* **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — A hub for virtual tours of memorial sites and museum halls / Хаб виртуальных туров по мемориальным локациям и залам музея.
+* **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — "House on the Embankment" Museum / Музей «Дом на набережной».  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/dnnmuseum.ru/](https://gulag-museum.github.io/dnnmuseum.ru/)
+* **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — Early version of the museum's web presence / Ранняя версия сайта музея.  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/ex.dnnmuseum.ru/](https://gulag-museum.github.io/ex.dnnmuseum.ru/)
+* **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — Virtual tours hub / Хаб виртуальных туров.  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/360.gmig.ru/](https://gulag-museum.github.io/360.gmig.ru/)
 
 ### 🎭 Multimedia Exhibits & Research / Выставки и исследования
-* **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Digital archive of the writer Yuri Dombrovsky / Цифровой архив наследия писателя Юрия Домбровского.
-* **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — The history of the Military Collegium building ("The Shooting House") / История здания Военной коллегии («Расстрельный дом»).
-* **[30october.ru](https://github.com/gulag-museum/30october.ru)** — The "October 30" remembrance project / Проект ко Дню памяти жертв политических репрессий.
-* **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — Research on visual history and censorship / Исследование визуальной истории и цензуры.
-* **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — Multimedia project on political iconography / Мультимедийный проект о политической иконографии.
+* **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Archive of the writer Yuri Dombrovsky / Архив Юрия Домбровского.  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/dombrovsky.ru/](https://gulag-museum.github.io/dombrovsky.ru/)
+* **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — History of "The Shooting House" / История «Расстрельного дома».  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/rasstrelnyydom.ru/](https://gulag-museum.github.io/rasstrelnyydom.ru/)
+* **[30october.ru](https://github.com/gulag-museum/30october.ru)** — "October 30" remembrance project / Проект «30 октября».  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/30october.ru/](https://gulag-museum.github.io/30october.ru/)
+* **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — Research on visual history / Исследование визуальной истории.  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/commissarreturns.ru/](https://gulag-museum.github.io/commissarreturns.ru/)
+* **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — Political iconography project / Проект о политической иконографии.  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/comissarvanishes.ru/](https://gulag-museum.github.io/comissarvanishes.ru/)
 
 ### 🎭 Theatre & Public Art / Театр и паблик-арт
-* **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — Documentation of "The Ugly Swans" play / Материалы спектакля «Гадкие лебеди».
-* **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — Archive of the "Wall of Grief" monument competition / Архив конкурса на создание монумента «Стена скорби».
+* **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — "The Ugly Swans" play / Спектакль «Гадкие лебеди».  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/](https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/)
+* **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — Monument competition archive / Архив конкурса на монумент.  
+  🚀 **Static Mirror:** [https://gulag-museum.github.io/konkurs.gmig.ru/](https://gulag-museum.github.io/konkurs.gmig.ru/)
 
 ---
 
