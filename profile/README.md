@@ -1,120 +1,154 @@
-# GULAG History Museum | Digital Archive & Heritage
-# Музей истории ГУЛАГа | Цифровой архив и наследие
+# GULAG History Museum | Digital Archive
+# Музей истории ГУЛАГа | Цифровой архив
 
-[English Version](#english) | [Русская версия](#russian)
+[English](#english) | [Русский](#russian)
 
 ---
 
 <a name="english"></a>
-## 🇬🇧 
+## 🇬🇧 English
 
-This organization serves as a permanent digital repository for the projects, archives, and research of the **GULAG History Museum** (Moscow). Following the museum's closure in 2024, this GitHub space ensures the long-term preservation and accessibility of its digital legacy.
+This organization preserves the digital heritage of the **GULAG History Museum** (Moscow) — archived websites, exhibitions, and research projects.
+
+After the museum’s closure in 2024, this repository ensures long-term access to its digital legacy.
 
 ### 🏛 Mission
-Our goal is to preserve the memory of political repressions and the history of the Soviet labor camp system through static web-archiving. We transform complex dynamic websites into "immortal" static mirrors to prevent the loss of unique historical data.
+To preserve the history of political repression through reliable static web archives.
 
-### 🗂 Digital Collections
+---
 
-#### 🌐 Website Archives
-* **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — "House on the Embankment" Museum.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/dnnmuseum.ru/](https://gulag-museum.github.io/dnnmuseum.ru/)
-* **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — Early version of the museum website.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/ex.dnnmuseum.ru/](https://gulag-museum.github.io/ex.dnnmuseum.ru/)
-* **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — Virtual tours of memorial sites and museum halls.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/360.gmig.ru/](https://gulag-museum.github.io/360.gmig.ru/)
+## 🗂 Collections
 
-#### 🎭 Multimedia Exhibits & Research
-* **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Digital archive of the writer Yuri Dombrovsky.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/dombrovsky.ru/](https://gulag-museum.github.io/dombrovsky.ru/)
-* **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — The history of the Military Collegium building ("The Shooting House").
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/rasstrelnyydom.ru/](https://gulag-museum.github.io/rasstrelnyydom.ru/)
-* **[30october.ru](https://github.com/gulag-museum/30october.ru)** — The "October 30" remembrance project.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/30october.ru/](https://gulag-museum.github.io/30october.ru/)
-* **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — Research on visual history and censorship.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/commissarreturns.ru/](https://gulag-museum.github.io/commissarreturns.ru/)
-* **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — Multimedia project on political iconography.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/comissarvanishes.ru/](https://gulag-museum.github.io/comissarvanishes.ru/)
+### 🌐 Website archives
 
-#### 🎭 Theatre & Public Art
-* **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — Documentation of "The Ugly Swans" play.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/](https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/)
-* **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — Archive of the "Wall of Grief" monument competition.
-  
-  🚀 **Live Mirror:** [https://gulag-museum.github.io/konkurs.gmig.ru/](https://gulag-museum.github.io/konkurs.gmig.ru/)
+- **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — House on the Embankment Museum  
+  🚀 https://gulag-museum.github.io/dnnmuseum.ru/
 
-### 🛠 Technology
-To ensure the "immortality" of these resources, we utilize static generation tools (Staatic, HTTrack, and custom scripts). This removes dependencies on vulnerable databases and outdated CMS versions.
+- **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — early version  
+  🚀 https://gulag-museum.github.io/ex.dnnmuseum.ru/
+
+- **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — virtual tours  
+  🚀 https://gulag-museum.github.io/360.gmig.ru/
+
+- **[mygulag.ru](https://github.com/gulag-museum/mygulag.ru)** — oral history video archive  
+  🚀 https://gulag-museum.github.io/mygulag.ru/
+
+---
+
+### 🎭 Exhibitions & research
+
+- **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Yuri Dombrovsky  
+  🚀 https://gulag-museum.github.io/dombrovsky.ru/
+
+- **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — Execution House  
+  🚀 https://gulag-museum.github.io/rasstrelnyydom.ru/
+
+- **[30october.ru](https://github.com/gulag-museum/30october.ru)** — remembrance project  
+  🚀 https://gulag-museum.github.io/30october.ru/
+
+- **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — visual history  
+  🚀 https://gulag-museum.github.io/commissarreturns.ru/
+
+- **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — political imagery  
+  🚀 https://gulag-museum.github.io/comissarvanishes.ru/
+
+---
+
+### 🎭 Theatre & public projects
+
+- **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — The Ugly Swans  
+  🚀 https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/
+
+- **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — monument competition  
+  🚀 https://gulag-museum.github.io/konkurs.gmig.ru/
+
+---
+
+## 🌍 External projects
+
+- https://mygulag.ru  
+- https://gulagmap.ru  
+
+---
+
+## ⚖️ Disclaimer
+
+For research and educational use only.  
+All rights belong to the GULAG History Museum and respective authors.
 
 ---
 
 <a name="russian"></a>
-## 🇷🇺 
+## 🇷🇺 Русский
 
-Эта организация является постоянным цифровым репозиторием для проектов, архивов и исследований **Музея истории ГУЛАГа** (Москва). После закрытия музея в 2024 году это пространство в GitHub обеспечивает долгосрочную сохранность и доступность его цифрового наследия.
+Эта организация сохраняет цифровое наследие **Музея истории ГУЛАГа** — архивы сайтов, выставки и исследовательские проекты.
+
+После закрытия музея в 2024 году GitHub стал пространством для их долгосрочного хранения.
 
 ### 🏛 Миссия
-Наша цель — сохранение памяти о политических репрессиях и истории советской лагерной системы через статическое веб-архивирование. Мы превращаем сложные динамические сайты в «вечные» статические зеркала, чтобы предотвратить утрату уникальных исторических данных.
-
-### 🗂 Цифровые коллекции
-
-#### 🌐 Архивы сайтов
-* **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — Музей «Дом на набережной».
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/dnnmuseum.ru/](https://gulag-museum.github.io/dnnmuseum.ru/)
-* **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — Ранняя версия сайта музея.
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/ex.dnnmuseum.ru/](https://gulag-museum.github.io/ex.dnnmuseum.ru/)
-* **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — Хаб виртуальных туров по мемориальным локациям и залам музея.
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/360.gmig.ru/](https://gulag-museum.github.io/360.gmig.ru/)
-
-#### 🎭 Онлайн-выставки и исследования
-* **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Цифровой архив наследия писателя Юрия Домбровского.
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/dombrovsky.ru/](https://gulag-museum.github.io/dombrovsky.ru/)
-* **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — История здания Военной коллегии («Расстрельный дом»).
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/rasstrelnyydom.ru/](https://gulag-museum.github.io/rasstrelnyydom.ru/)
-* **[30october.ru](https://github.com/gulag-museum/30october.ru)** — Проект «30 октября» (Ко Дню памяти жертв политических репрессий).
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/30october.ru/](https://gulag-museum.github.io/30october.ru/)
-* **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — Исследование визуальной истории и цензуры.
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/commissarreturns.ru/](https://gulag-museum.github.io/commissarreturns.ru/)
-* **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — Мультимедийный проект о политической иконографии.
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/comissarvanishes.ru/](https://gulag-museum.github.io/comissarvanishes.ru/)
-
-#### 🎭 Театр и паблик-арт
-* **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — Материалы спектакля «Гадкие лебеди».
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/](https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/)
-* **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — Архив конкурса на создание монумента «Стена скорби».
-  
-  🚀 **Статическое зеркало:** [https://gulag-museum.github.io/konkurs.gmig.ru/](https://gulag-museum.github.io/konkurs.gmig.ru/)
-
-### 🛠 Технологии
-Чтобы гарантировать «вечность» этих ресурсов, мы используем инструменты статической генерации (Staatic, HTTrack и кастомные скрипты). Это устраняет зависимость от уязвимых баз данных и устаревших версий CMS.
+Сохранение истории политических репрессий через надёжные статические архивы.
 
 ---
 
-## 🌍 External Projects / Внешние проекты
-* **[mygulag.ru](https://mygulag.ru)** — Video archive of witness testimonies / Видеоархив свидетельств очевидцев.
-* **[gulagmap.ru](https://gulagmap.ru)** — Interactive map of the GULAG system / Интерактивная карта ГУЛАГа.
+## 🗂 Коллекции
 
-## ⚖️ Disclaimer
-These archives are maintained strictly for historical and educational purposes. All rights belong to the GULAG History Museum and respective authors.
+### 🌐 Архивы сайтов
 
-Эти архивы поддерживаются исключительно в исторических и образовательных целях. Все права принадлежат Музею истории ГУЛАГа и соответствующим авторам.
+- **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — музей «Дом на набережной»  
+  🚀 https://gulag-museum.github.io/dnnmuseum.ru/
+
+- **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — ранняя версия  
+  🚀 https://gulag-museum.github.io/ex.dnnmuseum.ru/
+
+- **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — виртуальные туры  
+  🚀 https://gulag-museum.github.io/360.gmig.ru/
+
+- **[mygulag.ru](https://github.com/gulag-museum/mygulag.ru)** — видеоархив устной истории  
+  🚀 https://gulag-museum.github.io/mygulag.ru/
 
 ---
-*Preserving Memory. Protecting History. | Сохраняем память. Защищаем историю.*
+
+### 🎭 Выставки и исследования
+
+- **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Юрий Домбровский  
+  🚀 https://gulag-museum.github.io/dombrovsky.ru/
+
+- **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — «Расстрельный дом»  
+  🚀 https://gulag-museum.github.io/rasstrelnyydom.ru/
+
+- **[30october.ru](https://github.com/gulag-museum/30october.ru)** — проект «30 октября»  
+  🚀 https://gulag-museum.github.io/30october.ru/
+
+- **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — визуальная история  
+  🚀 https://gulag-museum.github.io/commissarreturns.ru/
+
+- **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — политическая иконография  
+  🚀 https://gulag-museum.github.io/comissarvanishes.ru/
+
+---
+
+### 🎭 Театр и публичные проекты
+
+- **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — «Гадкие лебеди»  
+  🚀 https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/
+
+- **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — конкурс монумента  
+  🚀 https://gulag-museum.github.io/konkurs.gmig.ru/
+
+---
+
+## 🌍 Внешние проекты
+
+- https://gulagmap.ru  
+
+---
+
+## ⚖️ Правовая информация
+
+Материалы публикуются в исследовательских и образовательных целях.  
+Все права принадлежат Музею истории ГУЛАГа и авторам.
+
+---
+
+*Preserving memory. Protecting history.*  
+*Сохраняем память. Защищаем историю.*
