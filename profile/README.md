@@ -1,154 +1,68 @@
-# GULAG History Museum | Digital Archive
-# Музей истории ГУЛАГа | Цифровой архив
+# Уцелевшее
 
-[English](#english) | [Русский](#russian)
+14 ноября 2024 года Музей истории ГУЛАГа — на тот момент единственное в России учреждение, посвящённое памяти жертв политических репрессий, — приостановил работу. Официальная причина — нарушения пожарной безопасности, которых, если верить документам, никто не замечал два десятилетия. Директора музея отстранили, а его команду — тех, кто годами ездил в экспедиции по бывшим лагерям, записывал свидетельства узников и собирал архив, — к созданию нового музея не привлекли.
 
----
+20 февраля 2026 года музей переименовали в «Музей памяти жертв геноцида советского народа в годы Великой Отечественной войны»; новая экспозиция открылась 22 июня — в годовщину начала войны. Тема сталинских репрессий из неё исчезла целиком: место архивов узников ГУЛАГа заняли залы о нацистской оккупации.
 
-<a name="english"></a>
-## 🇬🇧 English
+Сайты, которые музей и его команда строили два десятилетия — выставки, туры, личные архивы, — остались без хозяина: домены не продлевались, серверы отключались. Этот реестр — попытка сохранить то, что слишком легко потерять во второй раз.
 
-This organization preserves the digital heritage of the **GULAG History Museum** (Moscow) — archived websites, exhibitions, and research projects.
+## Почему это важно
 
-After the museum’s closure in 2024, this repository ensures long-term access to its digital legacy.
+Цифровое наследие гораздо более хрупко, чем печатные издания или музейные предметы. После отключения сайта его содержание часто утрачивается безвозвратно. Между тем многие современные исследования, выставки и образовательные проекты существуют исключительно в цифровой форме.
 
-### 🏛 Mission
-To preserve the history of political repression through reliable static web archives.
+Сохранение таких ресурсов позволяет обеспечить доступ к важным историческим материалам для будущих поколений и сохранить результаты многолетней работы исследователей, музеев и общественных организаций.
 
----
+## Подход к сохранению
 
-## 🗂 Collections
+В зависимости от особенностей конкретного проекта могут использоваться различные методы сохранения:
 
-### 🌐 Website archives
+- Архивирование статических версий сайтов;
+- Сохранение изображений, документов и мультимедийных материалов;
+- Перенос на современную инфраструктуру размещения;
+- Миграция на новые домены при утрате исходных;
+- Хранение исходных материалов в публичных репозиториях.
 
-- **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — House on the Embankment Museum  
-  🚀 https://gulag-museum.github.io/dnnmuseum.ru/
+## Цели проекта
 
-- **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — early version  
-  🚀 https://gulag-museum.github.io/ex.dnnmuseum.ru/
+- Сохранение исторически значимых цифровых ресурсов.
+- Обеспечение долгосрочного публичного доступа к материалам.
+- Защита результатов научной, музейной и просветительской работы от утраты.
+- Создание единого каталога сохранённых проектов.
+- Развитие практик сохранения цифрового культурного наследия.
 
-- **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — virtual tours  
-  🚀 https://gulag-museum.github.io/360.gmig.ru/
+## Сохранённые сайты
 
-- **[mygulag.ru](https://github.com/gulag-museum/mygulag.ru)** — oral history video archive  
-  🚀 https://gulag-museum.github.io/mygulag.ru/
+### Музей
 
----
+- **[Музей истории ГУЛАГа](https://gmig.gulagmemory.org)** — архив основного сайта музея, который работал в Москве до ноября 2024 года. Материалы музея — коллекция, экспедиции, проекты — сохранены и доступны здесь.
+- **[Виртуальные туры и панорамы 360°](https://360.gmig.gulagmemory.org)** — интерактивные 3D-туры по памятным местам: постоянная экспозиция музея, лагерь «Днепровский», следственная тюрьма УСВИТЛа, Чаунлаг и другие маршруты.
 
-### 🎭 Exhibitions & research
+### Дом на набережной
 
-- **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Yuri Dombrovsky  
-  🚀 https://gulag-museum.github.io/dombrovsky.ru/
+- **[Музей «Дом на набережной»](https://dnnmuseum.gulagmemory.org)** — архив сайта филиала музея за 2017–2025 годы: новости, история дома и его жителей, альбом об экспедиции на Северный полюс 1937 года.
+- **[Дом на набережной — ранняя версия сайта](https://ex.dnnmuseum.gulagmemory.org)** — более старый снимок сайта того же музея, сохранённый отдельно, за период до 2017 года.
 
-- **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — Execution House  
-  🚀 https://gulag-museum.github.io/rasstrelnyydom.ru/
+### Персональные архивы
 
-- **[30october.ru](https://github.com/gulag-museum/30october.ru)** — remembrance project  
-  🚀 https://gulag-museum.github.io/30october.ru/
+- **[Юрий Домбровский](https://dombrovsky.gulagmemory.org)** — цифровой архив писателя (1909–1978): биография, переписка, документы, фотографии, аудио- и видеозаписи.
 
-- **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — visual history  
-  🚀 https://gulag-museum.github.io/commissarreturns.ru/
+### Мемориальные инициативы
 
-- **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — political imagery  
-  🚀 https://gulag-museum.github.io/comissarvanishes.ru/
+- **[30 октября](https://30october.gulagmemory.org)** — сайт, посвящённый Дню памяти жертв политических репрессий: список имён репрессированных для ежегодного публичного чтения имён.
+- **[Расстрельный дом](https://rasstrelnyydom.gulagmemory.org)** — сайт-декларация о музеефикации здания на Никольской, 23, где в 1930–1940-х годах размещалась Военная коллегия Верховного суда СССР.
+- **[Конкурс на монумент](https://konkurs.gulagmemory.org)** — сайт открытого конкурса 2015 года на архитектурно-скульптурную концепцию монумента жертвам политических репрессий в Москве.
 
----
+### Выставки
 
-### 🎭 Theatre & public projects
+- **[Комиссар возвращается](https://commissarreturns.gmig.gulagmemory.org)** — выставка 2013 года из фотоколлекции Дэвида Кинга о Льве Троцком и его судьбе после высылки из СССР.
+- **[Комиссар исчезает](https://comissarvanishes.gmig.gulagmemory.org)** — проект о практике ретуширования и удаления опальных деятелей с официальных советских фотографий.
+- **[Гадкие лебеди](https://gadkie-lebedi.gmig.gulagmemory.org)** — афиша спектакля музея и творческого объединения «Таратумб» (премьера — 2019 год) по мотивам повести Стругацких, действие которого перенесено в наши дни: кукольный театр, соединённый с цифровыми технологиями.
 
-- **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — The Ugly Swans  
-  🚀 https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/
+### Готовится к переносу
 
-- **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — monument competition  
-  🚀 https://gulag-museum.github.io/konkurs.gmig.ru/
-
----
-
-## 🌍 External projects
-
-- https://mygulag.ru  
-- https://gulagmap.ru  
+- **Мой ГУЛАГ** — архив видеосвидетельств людей, прошедших через советские репрессии: работа началась в 2013 году, сейчас в нём больше 400 интервью. Сейчас на mygulag.ru, перенос на mygulag.org в работе.
+- **Карта ГУЛАГа** — интерактивная карта лагерных пунктов системы ГУЛАГа. Сейчас на gulagmap.ru, перенос на gulagatlas.org в работе.
 
 ---
 
-## ⚖️ Disclaimer
-
-For research and educational use only.  
-All rights belong to the GULAG History Museum and respective authors.
-
----
-
-<a name="russian"></a>
-## 🇷🇺 Русский
-
-Эта организация сохраняет цифровое наследие **Музея истории ГУЛАГа** — архивы сайтов, выставки и исследовательские проекты.
-
-После закрытия музея в 2024 году GitHub стал пространством для их долгосрочного хранения.
-
-### 🏛 Миссия
-Сохранение истории политических репрессий через надёжные статические архивы.
-
----
-
-## 🗂 Коллекции
-
-### 🌐 Архивы сайтов
-
-- **[dnnmuseum.ru](https://github.com/gulag-museum/dnnmuseum.ru)** — музей «Дом на набережной»  
-  🚀 https://gulag-museum.github.io/dnnmuseum.ru/
-
-- **[ex.dnnmuseum.ru](https://github.com/gulag-museum/ex.dnnmuseum.ru)** — ранняя версия  
-  🚀 https://gulag-museum.github.io/ex.dnnmuseum.ru/
-
-- **[360.gmig.ru](https://github.com/gulag-museum/360.gmig.ru)** — виртуальные туры  
-  🚀 https://gulag-museum.github.io/360.gmig.ru/
-
-- **[mygulag.ru](https://github.com/gulag-museum/mygulag.ru)** — видеоархив устной истории  
-  🚀 https://gulag-museum.github.io/mygulag.ru/
-
----
-
-### 🎭 Выставки и исследования
-
-- **[dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru)** — Юрий Домбровский  
-  🚀 https://gulag-museum.github.io/dombrovsky.ru/
-
-- **[rasstrelnyydom.ru](https://github.com/gulag-museum/rasstrelnyydom.ru)** — «Расстрельный дом»  
-  🚀 https://gulag-museum.github.io/rasstrelnyydom.ru/
-
-- **[30october.ru](https://github.com/gulag-museum/30october.ru)** — проект «30 октября»  
-  🚀 https://gulag-museum.github.io/30october.ru/
-
-- **[commissarreturns.ru](https://github.com/gulag-museum/commissarreturns.ru)** — визуальная история  
-  🚀 https://gulag-museum.github.io/commissarreturns.ru/
-
-- **[comissarvanishes.ru](https://github.com/gulag-museum/comissarvanishes.ru)** — политическая иконография  
-  🚀 https://gulag-museum.github.io/comissarvanishes.ru/
-
----
-
-### 🎭 Театр и публичные проекты
-
-- **[gadkie-lebedi.gmig.ru](https://github.com/gulag-museum/gadkie-lebedi.gmig.ru)** — «Гадкие лебеди»  
-  🚀 https://gulag-museum.github.io/gadkie-lebedi.gmig.ru/
-
-- **[konkurs.gmig.ru](https://github.com/gulag-museum/konkurs.gmig.ru)** — конкурс монумента  
-  🚀 https://gulag-museum.github.io/konkurs.gmig.ru/
-
----
-
-## 🌍 Внешние проекты
-
-- https://gulagmap.ru  
-
----
-
-## ⚖️ Правовая информация
-
-Материалы публикуются в исследовательских и образовательных целях.  
-Все права принадлежат Музею истории ГУЛАГа и авторам.
-
----
-
-*Preserving memory. Protecting history.*  
-*Сохраняем память. Защищаем историю.*
+Реестр ведётся вручную и обновляется по мере переноса новых сайтов.
